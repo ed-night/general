@@ -1,6 +1,9 @@
 import './Header.css';
 export const Header = () =>{
     return(
-        <div className="anun">ED-NIGHT</div>
+        <div className="header">
+            <p>Edvard Daghbashyan</p>
+
+        </div>
     )
 }
